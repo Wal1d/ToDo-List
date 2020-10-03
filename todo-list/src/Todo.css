@@ -1,0 +1,20 @@
+.statusToDo
+{
+    list-style:none;
+    display:inline-block;
+    background-color:#F0F2F4;
+    border-radius:5px;
+    padding:5px;
+    font-size:8px;
+    font-family: cursive;
+    color:#B2BAC2;
+    box-shadow:0px 0px 7px black;
+    margin:3px 25px 3px 150px;
+    line-height:9px;
+    text-transform:uppercase;
+}
+.statusToDo:hover {
+    color: #225555;
+    background-color: #262626;
+}
+
